@@ -8,6 +8,7 @@ import com.wzw.tif.util.TifUtil;
 
 import java.io.*;
 
+//本地提取完上传
 public class App {
     public static void main(String[] args) throws Exception {
         ByteArrayOutputStream byteArrayOutputStream = TifUtil.getFirstFrame(new File("D:/images/3.tif"));

@@ -17,7 +17,7 @@
         <dependency>
             <groupId>io.github.wzw32768</groupId>
             <artifactId>tif-util</artifactId>
-            <version>0.0.5</version>
+            <version>0.0.4</version>
         </dependency>
         <dependency>
             <groupId>com.aliyun.oss</groupId>
